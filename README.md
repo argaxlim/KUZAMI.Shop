@@ -1,2 +1,1 @@
-# KUZAMI.Shop
-E-commerce
+# KUZAMI.shop
